@@ -1,0 +1,7 @@
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/radiuscool/topkek/refs/heads/main/adsdsaadsdassad", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rooseguy8/scripts/refs/heads/main/topkek", true))()
+game.CoreGui.topkek.DragFrame.DragChildFrame.ScriptName.TextXAlignment = Enum.TextXAlignment.Left
+game.CoreGui.topkek.DragFrame.DragChildFrame.ScriptName.Text = "  T0PK3K 5.0"
+game.CoreGui.topkek.DragFrame.MainFrame.LocalPlayerFrame.LocalPlayerScrollingFrame.Invisible.Text = "Invisible"
+game.CoreGui.topkek.DragFrame.MainFrame.LocalPlayerFrame.LocalPlayerScrollingFrame.AntiFling.Text = "Anti Fling"
+game.CoreGui.topkek.DragFrame.ButtonSelectorMainFrame.ButtonSelecter.AddUrOwnScript:Destroy()
